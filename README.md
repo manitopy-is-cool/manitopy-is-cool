@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manitopy-is-cool
+- 👋 Hi, I’m @manitopy-is-cool (HiggsInSpace)
 - 👀 I’m interested in pixelpapercraft making a generator
 - 🌱 I’m currently learning how to make said generator
 - 💞️ I’m looking to collaborate on said generator
